@@ -6,7 +6,7 @@ This project follows the [all-contributors](https://allcontributors.org) specifi
 
 ## Propose New Features or Report Bugs
 
-[Open an issue](./issues) to report bugs or to propose new features.
+Open an issue to report bugs or to propose new features.
 
 If you are proposing a feature:
 
