@@ -1,0 +1,15 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?logo=github&maxAge=21600)](#contributors-)",
+  "contributors": [
+  ],
+  "contributorsPerLine": 7,
+  "projectName": ".github",
+  "projectOwner": "renemarc",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
