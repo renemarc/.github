@@ -1,13 +1,9 @@
 ---
-name: '🤔 Questions and Help'
-about: Use this if there is something not clear about the code or its docs.
+name: "🤔 Questions and Help"
+about: "Ask for clarifications about the project or its documentation."
+labels: ""
+title: "Help: "
 ---
 
 # Question
-
-<!--
-  Before submitting it, please ensure that this was not already asked in another issue.
-
-  This issue should serve for you to ask a question about the project to the maintainers and other fellow developers - remember that even if the issue gets closed, the conversation can move forward. 🤗
-  Also, ideally this issue should culminate in a PR to the documentation for this project so that future developers will have that doubt cleared.
--->
+<!-- Do mention any issues, unclear documentation, problematic lines of code, etc. -->
