@@ -21,3 +21,41 @@ helpr:
   opened: 'pr-available'
   merged: 'pr-merged'
   rejected: 'pr-rejected'
+
+
+#
+# ProBot: Request Info
+#
+# Requests more info on issues and pull requests with the default title or an
+# empty body.
+#
+# Additional info:
+#   https://probot.github.io/apps/request-info/
+#
+
+# Comment to reply with
+requestInfoReplyComment: >-
+  👋 It would be much appreciated if you could provide more information about
+  this issue/pr! 😃
+
+# Label to be added to Issues and PRs with insufficient information given
+requestInfoLabelToAdd: question
+
+# Default titles to check against for lack of descriptiveness
+requestInfoDefaultTitles:
+  - update readme.md
+  - updates
+
+# Require Issues to contain more information than an un-edited template
+checkIssueTemplate: true
+
+# Require PRs to contain more information than an un-edited template
+checkPullRequestTemplate: true
+
+# Only warn about insufficient information on these events type
+requestInfoOn:
+  pullRequest: true
+  issue: true
+
+# List of people whose Issues/PRs will not be commented on
+requestInfoUserstoExclude: []
