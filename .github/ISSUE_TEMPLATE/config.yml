@@ -59,3 +59,25 @@ requestInfoOn:
 
 # List of people whose Issues/PRs will not be commented on
 requestInfoUserstoExclude: []
+
+
+#
+# Probot: Welcome
+#
+# Welcomes new users.
+#
+# Additional info:
+#   https://probot.github.io/apps/welcome/
+#
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >-
+  🎊 Congrats on merging your first pull request! Yay! 🥳
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >-
+  🎉 Thanks for opening your first issue here! 😃
+
+# Comment to be posted to on PRs from first time contributors in repository
+newPRWelcomeComment: >-
+  🍻 Thanks for opening this pull request, you're awesome! 😃
