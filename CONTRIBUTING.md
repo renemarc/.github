@@ -1,4 +1,4 @@
-# Contributing guide
+# Contributing Guide
 
 Want to contribute to the this project? You're awesome! Contributions are welcome, and they are greatly appreciated! Every little bit helps, and credit will always be given.
 
@@ -6,7 +6,7 @@ This project follows the [all-contributors](https://allcontributors.org) specifi
 
 ## Propose New Features or Report Bugs
 
-Open an issue to report bugs or to propose new features.
+Please open an issue to report bugs or to propose new features.
 
 If you are proposing a feature:
 
@@ -17,7 +17,7 @@ If you are proposing a feature:
 
 If you are reporting a bug, please include:
 
-* Your operating system name and version.
+* Your relevant system info.
 * Any details about your local setup that might be helpful in troubleshooting.
 * Detailed steps to reproduce the bug.
 
@@ -25,7 +25,7 @@ If you are reporting a bug, please include:
 
 Look through the GitHub issues for bugs and features. Anything tagged with
 `bug`, `enhancement` and `help wanted` is open to whoever wants to implement
-it.
+it. You rock!
 
 ## Write Documentation
 
@@ -39,11 +39,11 @@ Pull requests are very welcome. Note that if you are going to propose drastic
 changes, be sure to open an issue for discussion first, to make sure that your
 PR will be accepted before you spend effort coding it.
 
-**Working on your first Pull Request?**  
-You can learn how from this _free_ series [How to Contribute to an Open Source
-Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+**Working on your first Pull Request?**\
+You can learn how from this free series: [How to Contribute to an Open Source
+Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
-## Get Started!
+## Get Started
 
 Ready to contribute? Here's how to set up this project for local
 development.
@@ -51,24 +51,24 @@ development.
 1. Fork this repo on GitHub.
 2. Clone your fork locally:
 
-    ```shell
-    git clone git@github.com:your_name_here/project.git
-    ```
+   ```shell
+   git clone git@github.com:your_name_here/project.git
+   ```
 
 3. Create a branch for local development:
 
-    ```shell
-    git checkout -b name-of-your-bugfix-or-feature
-    ```
+   ```shell
+   git checkout -b name-of-your-bugfix-or-feature
+   ```
 
    Now you can make your changes locally.
 
 4. Commit your changes and push your branch to GitHub:
 
-    ```shell
-    git add .
-    git commit -m "Your detailed description of your changes."
-    git push origin name-of-your-bugfix-or-feature
-    ```
+   ```shell
+   git add .
+   git commit -m "Your detailed description of your changes."
+   git push origin name-of-your-bugfix-or-feature
+   ```
 
 5. Submit a pull request through the GitHub website.
