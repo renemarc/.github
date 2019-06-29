@@ -1,8 +1,9 @@
 ---
 name: "🤔 Questions and Help"
 about: "Ask for clarifications about the project or its documentation."
-labels: ""
 title: "Help: "
+labels: ""
+assignees: ""
 ---
 
 # Question

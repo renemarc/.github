@@ -1,8 +1,9 @@
 ---
 name: "🐛 Bug Report"
 about: "Alert about a reproducible bug or regression in this project."
-labels: "bug"
 title: "Bug:  "
+labels: "bug"
+assignees: ""
 ---
 
 # Bug Report
