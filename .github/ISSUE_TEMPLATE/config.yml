@@ -1,0 +1,23 @@
+#
+# Probot configuration file
+#
+# Used by GitHub Probot apps with no dedicated configuration files.
+#
+# Additional info:
+#   https://probot.github.io/
+#
+
+
+#
+# Probot: helPR
+#
+# Assigns labels to issues based on the status of the PR associated with it.
+#
+# Additional info:
+#   https://probot.github.io/apps/helpr/
+#
+
+helpr:
+  opened: 'pr-available'
+  merged: 'pr-merged'
+  rejected: 'pr-rejected'
