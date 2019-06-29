@@ -1,28 +1,16 @@
-<!-- Thanks for submitting a pull request! We appreciate you spending the time to work on these changes. Please follow the template so that the reviewers can easily understand what the code changes affect -->
-
 # Summary
-
-<!--
-Explain the **motivation** for making this change: here are some points to help you:
-
-* What issues does the pull request solve? Please tag them so that they will get automatically closed once the PR is merged.
+<!-- What is the **motivation** for making this change? Here are some points to help you:
+* What issues does this PR solve? (please tag them)
 * What is the feature? (if applicable)
 * How did you implement the solution?
 * What areas of the project does it impact?
 -->
 
-## Test Plan
-
-<!-- Demonstrate the code is solid. -->
-
-### What's required for testing (prerequisites)?
-
-### What are the steps to reproduce (after prerequisites)?
+## Test Plan (if any)
+<!-- Demonstrate that the code is solid. -->
 
 ## Checklist
-
-<!-- Check completed item, when applicable, via: [X] -->
-
+<!-- Check completed items (when applicable) using: [X] -->
 - [ ] I have tested this
 - [ ] I added the documentation in `README.md`
 - [ ] I mentioned this change in `CHANGELOG.md`
