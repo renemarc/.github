@@ -16,3 +16,9 @@ assignees: ""
 
 ## Environment Info
 <!-- You *did* test using the latest release, right? 😉 -->
+
+## Debug Log (if any)
+
+```text
+
+```
