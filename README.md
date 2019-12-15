@@ -26,8 +26,8 @@ Use this repo as a template for new repos, or for an organisation's [default com
 ## Usage 💻
 
 1. Fork this repo.
-2. Configure the fork according to the Github account type:
-   - **Organisations accounts:** Make sure to keep the '.github' repo name to benefit from Github's [default community health files feature](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
+2. Configure the fork according to your Github account type:
+   - **Organisation accounts:** Make sure to keep the `.github` repo name to benefit from Github's [default community health files feature](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
    - **Personnal accounts:** mark the forked repo as a template under Github settings and create your next repos based on this template.
 3. Do a search and replace for the following placeholders:
     - `[EMAIL_ADDRESS]`
