@@ -1,12 +1,13 @@
 # .github
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?logo=github&maxAge=21600)](#contributors-)
+[![Contributor Convenant v2.0][badge-conduct]][link-conduct]
 
 Default configuration, templates and community health files.
 
 Use this repo as a template for new repos, or for an organisation's [default community health files](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
 
-## Features
+## Features ✅
 
 - Includes templates for:
   + [🐛 Bug Reports](/.github/ISSUE_TEMPLATE/BUG_REPORT.md)
@@ -17,7 +18,7 @@ Use this repo as a template for new repos, or for an organisation's [default com
 - Provides pre-written community health files:
     + [Code of Conduct](./github/CODE_OF_CONDUCT.md) based on [Contributor Covenant](https://www.contributor-covenant.org).
     + [Contributing Guide](./github/CONTRIBUTING.md) with support for [All Contributors](https://allcontributors.org).
-    + [Security Template](./github/SECURITY.md) based on [security-README](https://github.com/Trewaters/security-README).
+    + [Security Template](./github/SECURITY.md) based on [security-README](https://github.com/Trewaters/security-README). (WIP)
 - Supports useful Github bots:
     + [All Contributors](https://allcontributors.org).
     + [Probot: No Response](https://github.com/probot/no-response).
@@ -34,6 +35,9 @@ Use this repo as a template for new repos, or for an organisation's [default com
     - `[EMAIL_ADDRESS_SECURITY]`
     - `[NAME_OF_REPO]`
     - `[USERNAME]`
+    - `[INSERT CONTACT METHOD]`
+    - `[name of copyright owner]`
+    - `[yyyy]`
 
 ## Contributors ✨
 
@@ -42,7 +46,7 @@ Use this repo as a template for new repos, or for an organisation's [default com
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://allcontributors.org) specification ([emoji key available here](https://allcontributors.org/docs/en/emoji-key)). Found a bug, want to suggest an idea or share some improvements? [Contributions of any kind are welcome!](.github/CONTRIBUTING.md) 😃
+This project follows the [all-contributors](https://allcontributors.org) specification ([emoji key available here](https://allcontributors.org/docs/en/emoji-key)). Found a bug, want to suggest an idea or share some improvements? [Contributions of any kind are welcome!](./CONTRIBUTING.md) 😃
 
 ## Examples
 
@@ -53,3 +57,8 @@ This project follows the [all-contributors](https://allcontributors.org) specifi
 ## Thanks 💕
 
 - https://github.com/python/black
+
+
+[badge-conduct]: https://img.shields.io/badge/code_of_conduct-Contributor_Covenant_v2.0-purple.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiICB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgIDxwYXRoIGZpbGw9IiNmZmZmIiBkPSJNMTIsMjEuMzVMMTAuNTUsMjAuMDNDNS40LDE1LjM2IDIsMTIuMjcgMiw4LjVDMiw1LjQxIDQuNDIsMyA3LjUsM0M5LjI0LDMgMTAuOTEsMy44MSAxMiw1LjA4QzEzLjA5LDMuODEgMTQuNzYsMyAxNi41LDNDMTkuNTgsMyAyMiw1LjQxIDIyLDguNUMyMiwxMi4yNyAxOC42LDE1LjM2IDEzLjQ1LDIwLjAzTDEyLDIxLjM1WiIgLz4KPC9zdmc+&cacheSeconds=86400
+
+[link-conduct]: ./CODE_OF_CONDUCT.md
